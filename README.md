@@ -58,11 +58,10 @@ Whether I’m building forecasting models, automating workflows, or creating das
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
 
 ## 🧭 Want to explore my projects?
 
-📘 Take a look at my [**Portfolio Guide**](https://github.com/RebecaSuarez22/Portfolio-Guide) 
+📘 Take a look at my [**Portfolio Guide**](https://github.com/RebecaSuarez22/Portfolio) 
 
 ---
 
