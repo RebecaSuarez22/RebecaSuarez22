@@ -1,7 +1,7 @@
 # 🙋🏻‍♀️ Introducing Myself
 
-<img width="1584" height="396" alt="Black   White Modern Minimalist Data Analyst LinkedIn Banner (1)" src="https://github.com/user-attachments/assets/95f2e20d-4b39-44fd-9caa-aa880e8307b8" />
 
+<img width="2408" height="604" alt="banner" src="https://github.com/user-attachments/assets/a4ae8985-7040-472f-9e4e-65690e8d0e45" />
 
 Hi, I'm **Rebeca**, a Data Scientist & AI Engineer with a background in Computer Engineering and a passion for solving real-world problems with data. I’ve worked on projects involving computer vision, OCR, predictive modeling and business intelligence—always with a strong focus on creating impact.
 
